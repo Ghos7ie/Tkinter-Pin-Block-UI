@@ -1,4 +1,2 @@
 # Tkinter-Pin-Block-UI
-Created during my internship
-
-I realise my repos are mostly Python based -- I AM NOT A PYTHON FANBOY
+Created during my internship to explore a more automated manner of carrying out my job scope.
